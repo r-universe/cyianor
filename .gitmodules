@@ -8,3 +8,8 @@
 	url = https://github.com/cyianor/cmf
 	shallow = true
 	registered = true
+[submodule "mmpca"]
+	path = mmpca
+	url = https://github.com/cyianor/mmpca
+	shallow = true
+	registered = true
