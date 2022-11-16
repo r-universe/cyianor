@@ -2,5 +2,9 @@
   {
     "package": "CMF",
     "oncran": true
+  },
+  {
+    "package": "mmpca",
+    "oncran": true
   }
 ]
