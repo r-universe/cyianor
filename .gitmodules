@@ -5,6 +5,9 @@
 [submodule "CMF"]
 	path = CMF
 	url = https://github.com/cyianor/cmf
+[submodule "compdb"]
+	path = compdb
+	url = https://github.com/cyianor/r-compdb
 [submodule "mmpca"]
 	path = mmpca
 	url = https://github.com/cyianor/mmpca
